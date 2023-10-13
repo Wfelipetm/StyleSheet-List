@@ -5,7 +5,7 @@ StyleSheet-List é um guia prático das propriedades mais comuns do `StyleSheet`
 
 ## Conteúdo
 
-- [Posicionamento](#posicionamento)
+- [Posicionamento](https://github.com/Wfelipetm/StyleSheet-List/blob/main/StyleSheet-List.pdf)
 - [Dimensões](#dimensões)
 - [Margens e Preenchimento](#margens-e-preenchimento)
 - [Textos e Fontes](#textos-e-fontes)

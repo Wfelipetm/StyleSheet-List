@@ -6,13 +6,13 @@ StyleSheet-List é um guia prático das propriedades mais comuns do `StyleSheet`
 ## Conteúdo
 
 - [Posicionamento](StyleSheet-List.pdf)
-- [Dimensões](#dimensões)
-- [Margens e Preenchimento](#margens-e-preenchimento)
-- [Textos e Fontes](#textos-e-fontes)
-- [Cores e Fundo](#cores-e-fundo)
-- [Flexibilidade (para Flexbox)](#flexibilidade-para-flexbox)
-- [Bordas](#bordas)
-- [Outras Propriedades](#outras-propriedades)
+- [Dimensões](StyleSheet-List.pdf)
+- [Margens e Preenchimento](StyleSheet-List.pdf)
+- [Textos e Fontes](StyleSheet-List.pdf)
+- [Cores e Fundo](StyleSheet-List.pdf)
+- [Flexibilidade (para Flexbox)](StyleSheet-List.pdf)
+- [Bordas](StyleSheet-List.pdf)
+- [Outras Propriedades](StyleSheet-List.pdf)
 
 ## Uso
 

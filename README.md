@@ -22,7 +22,7 @@ StyleSheet-List é um guia prático das propriedades mais comuns do `StyleSheet`
 
 Este guia será útil para economizar tempo e garantir que suas folhas de estilo sejam consistentes em todos os projetos do React Native. 
 
-Autor: [Wallace Tavares]
+Autor: Wallace Tavares
 
 
 
